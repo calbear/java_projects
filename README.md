@@ -1,3 +1,3 @@
 # Java projects
 
-completed assignments in Java: IO, GUI using swing, collection classes, wrapper, applets
+completed assignments from Intro and Intermediate Java programming classes: IO, GUI using swing, collection classes, wrapper, arrays, search and sort, applets
