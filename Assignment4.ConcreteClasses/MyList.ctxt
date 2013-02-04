@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=element
+comment0.target=void\ add(java.lang.Object)
+comment0.text=\r\n\ \ The\ add\ method\ will\ add\ an\ item\ to\ the\ end\ of\ the\ list.\r\n
+comment1.params=index
+comment1.target=void\ remove(int)
+comment1.text=\r\n\ \ The\ remove\ method\ will\ remove\ the\ item\ at\ the\ specified\r\n\ \ location\ in\ the\ list,\ moving\ the\ following\ items\ one\ position\ to\r\n\ \ the\ left.\r\n\r\n\ \ @param\ index\ \ the\ location\ at\ which\ to\ remove\ the\ element\r\n
+comment2.params=index
+comment2.target=java.lang.Object\ get(int)
+comment2.text=\r\n\ \ The\ get\ method\ will\ return\ the\ item\ at\ the\ specified\r\n\ \ location\ in\ the\ list.\r\n\r\n\ \ @param\ index\ \ the\ location\ of\ the\ element\ to\ return\r\n
+comment3.params=
+comment3.target=int\ size()
+comment3.text=\r\n\ \ The\ size\ method\ will\ return\ the\ size\ of\ the\ list\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ \ The\ toString\ method\ will\ return\ a\ string\ containing\ the\ contents\r\n\ \ of\ the\ list.\r\n
+numComments=5

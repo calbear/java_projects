@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=element
+comment0.target=void\ add(java.lang.Object)
+comment1.params=index
+comment1.target=void\ remove(int)
+comment2.params=index
+comment2.target=java.lang.Object\ get(int)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

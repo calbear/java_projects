@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TopSales()
+comment0.text=\r\n\ Constructor\ for\ TopSales\r\n
+comment1.params=
+comment1.target=void\ getInput()
+comment2.params=
+comment2.target=void\ topDayofWeek()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Main\ method\ to\ run\ the\ class\r\n
+numComments=4

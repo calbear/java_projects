@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ start()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ setWrapText()
+comment4.params=
+comment4.target=void\ setDoNotWrapText()
+comment5.params=
+comment5.target=void\ setClearText()
+comment6.params=
+comment6.target=void\ setScrollVertical()
+comment7.params=
+comment7.target=void\ setScrollHorizontal()
+comment8.params=
+comment8.target=void\ setScrollBothWays()
+comment9.params=
+comment9.target=void\ setDoNotScroll()
+numComments=10

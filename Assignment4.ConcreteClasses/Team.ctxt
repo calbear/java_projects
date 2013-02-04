@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Team()
+comment0.text=\r\n\ Constructor\ for\ Team\r\n
+comment1.params=player
+comment1.target=void\ addPlayer(Player)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Main\ method\ to\ run\r\n
+numComments=4
